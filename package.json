@@ -1,0 +1,23 @@
+{
+  "name": "async-landig-coursplatzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscar14984/async-landig-coursPlatzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oscar14984/async-landig-coursPlatzi/issues"
+  },
+  "homepage": "https://github.com/Oscar14984/async-landig-coursPlatzi#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
